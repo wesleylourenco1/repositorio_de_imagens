@@ -1,0 +1,17 @@
+{
+    "name": "wesleylourenco1/repositorio_de_imagens",
+    "require": {
+        "jeroennoten/laravel-adminlte": "^3.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wesleylourenco1\\RepositorioDeImagens\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wesleylourenco1",
+            "email": "wesleylourenco1@gmail.com"
+        }
+    ]
+}
